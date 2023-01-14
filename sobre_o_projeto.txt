@@ -1,0 +1,1 @@
+Este é um site de divulgação de um catalogador de leituras que eu também estou desenvolvendo. O objetivo é usar as ferramentas HTML5, CSS, Flask e JavaScript.

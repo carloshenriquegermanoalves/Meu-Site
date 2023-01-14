@@ -1,0 +1,25 @@
+body{
+        background-color: black;
+    }
+a{
+        color: white;
+        margin: auto;
+        position: relative;
+}
+.Leitura{
+        color: white;
+    }
+.Empresa{
+        color: white;
+}
+.Desenvolvedor{
+        color: white;
+    }
+.Cadastro{
+        color: white;
+        text-align: center;
+        padding: 10px;
+        margin: auto;
+        position: relative;
+        top: 50px
+    }
